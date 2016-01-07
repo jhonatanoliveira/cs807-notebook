@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jhonatanoliveira.github.io
+title: CS807 Notebook
+paginate: 5
