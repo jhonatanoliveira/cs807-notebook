@@ -1,0 +1,26 @@
+---
+published: true
+title: Planning
+layout: post
+---
+Here, I propose a first schedule for my activities in this semester.
+This includes proposed subjects on the research tasks and a rough idea of what we want to do on the final project.
+
+For the 5 research tasks I am proposing the following subjects:
+
+* **The paper:** [Sum-Product Networks: A New Deep Architecture](http://spn.cs.washington.edu/pubs.shtml)
+* **The platform:** [Meteor.js](https://www.meteor.com/)
+* **The problem:** Multiplying algebraic decision diagrams (ADDs) - Darwiche, A. (2009). Modeling and Reasoning with Bayesian Networks (1st ed.). Cambridge University Press.
+* **The comparison:** Implementing ADDs multiplication in Java using CUDA.
+* **The future / The past:** Smart grids.
+
+The research tasks will be posted online in a github repository available here: [https://github.com/jhonatanoliveira/cs807-research-tasks](https://github.com/jhonatanoliveira/cs807-research-tasks)
+
+Regarding the final project, I will be working with [Andre Evaristo](https://github.com/andreeds) in a low cost terminal information system.
+The idea here is to have a compact and cheap terminal available for students at any point of the University of Regina campus.
+This terminal should be able to handle, initially, 2 kinds of information: localization and contact info.
+Here, the goal will be to show the student how to get somewhere at the university or what is the phone number of a staff member.
+The project itself will be available in a github repository too.
+Link will be posted later.
+
+For other references and repositories, my github account is [https://github.com/jhonatanoliveira](https://github.com/jhonatanoliveira)
