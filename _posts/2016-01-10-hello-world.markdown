@@ -9,3 +9,5 @@ My goal with this blog is to post updates on all my class activities throughout 
 
 My next post will be on my first research task.
 Hope you enjoy.
+
+{% include disqus.html %}
