@@ -22,8 +22,7 @@
         {{ content }}
         {% for post in site.posts %}
             {% if post.url == page.url %}
-                {% assign post_index = forloop.index %}
-                {% include disqus.html %}                        
+                {% assign post_index = forloop.index %}                        
             {% endif %}
         {% endfor %}
         {% for post in site.posts %}
