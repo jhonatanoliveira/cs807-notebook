@@ -21,6 +21,8 @@
     <article>
         {{ content }}
 
+        <!-- Begin Disqus code for comments -->
+        <hr>
         <div id="disqus_thread"></div>
         <script>
         /**
@@ -43,6 +45,8 @@
         })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        <hr>
+        <!-- End Disqus code for comments -->
 
         {% for post in site.posts %}
             {% if post.url == page.url %}
