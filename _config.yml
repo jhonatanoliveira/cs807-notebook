@@ -4,4 +4,3 @@ markdown: kramdown
 url: http://jhonatanoliveira.github.io
 title: CS807 Notebook
 paginate: 5
-comments: true
