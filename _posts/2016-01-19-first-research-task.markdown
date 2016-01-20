@@ -1,10 +1,10 @@
 ---
 published: true
-title: First Research Task: An Introduction to Meteor.js
+title: First Research Task
 layout: post
 ---
 The first research task is going to be *the platform* one.
-In *the platform*, our goal is to introduce a reactive web app framework called [Meteor.js](https://www.meteor.com/) (or Meteor for short).
+In *the platform*, our goal is to introduce a reactive web app framework called [Meteor.js](https://www.meteor.com/) or Meteor for short.
 Meteor is a framework that uses javascript as its programming language.
 The basic idea of this framework is to use one language throughout the whole app development process.
 That is, the server and the client will both be programmed in javascript and they will follow a common ground set of rules to interact smoothly and in a reactive way.
