@@ -1,6 +1,6 @@
 ---
 published: true
-title: 1st Research Task: An Introduction to Meteor.js
+title: First Research Task: An Introduction to Meteor.js
 layout: post
 ---
 The first research task is going to be *the platform* one.
